@@ -20,3 +20,5 @@ To design and develop an interactive HR Analytics Dashboard using Power BI that 
 - 🎓 **Education Impact**: Higher attrition in diploma holders
 - 💸 **Salary Bands**: Lower salaries linked to higher attrition
 - 🧠 **Job Satisfaction**: Varies widely by role
+
+  - Dashboard Interaction <a href = "https://github.com/Himanshujoshi16/HR-Analytics-Dashboard/blob/main/HR%20ANALYTICS%20DASHBOARD.pdf">View dashboard<a/>
