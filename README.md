@@ -22,3 +22,6 @@ To design and develop an interactive HR Analytics Dashboard using Power BI that 
 - 🧠 **Job Satisfaction**: Varies widely by role
 
   - Dashboard Interaction <a href = "https://github.com/Himanshujoshi16/HR-Analytics-Dashboard/blob/main/HR%20ANALYTICS%20DASHBOARD.pdf">View dashboard<a/>
+
+  ### 📄 View Dashboard  
+[🔗 HR Analytics Dashboard (PDF)](dashboard/HR_ANALYTICS_DASHBOARD.pdf)
